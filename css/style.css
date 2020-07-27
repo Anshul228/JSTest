@@ -1,0 +1,7 @@
+input[type]:invalid{
+    border: 2px solid red;
+}
+
+input[type]:valid{
+    border: 2px solid rgb(59, 238, 59);
+}
